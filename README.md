@@ -3,9 +3,13 @@ Welcome to Calculator, a lightweight and user-friendly calculator built with HTM
 
 # Table of Contents
  a.Overview
+ 
  b.Key Features
+ 
  c.How to Use
+ 
  d.Contributions
+ 
  e.License
 
 # Overview
